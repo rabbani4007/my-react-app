@@ -1,0 +1,14 @@
+section {
+  min-height: 100vh;
+  padding: 10rem 9% 2rem;
+}
+
+.app {
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+
+.component {
+  min-height: 100vh;
+  padding: 10rem 5rem;
+}
