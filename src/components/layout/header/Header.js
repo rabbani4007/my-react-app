@@ -18,6 +18,7 @@ export default function Header() {
           <Link to="/news-portal">News Portal</Link>
           <Link to="/contact">Contact</Link>
           <Link to="/about">About</Link>
+          <Link to="/blog">Blog</Link>
         </nav>
       </header>
     </>
